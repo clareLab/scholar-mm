@@ -1,5 +1,1 @@
-[
-  { "id": "yearly", "label": "yearly / 3y window" },
-  { "id": "y1", "label": "yearly / 1y window" },
-  { "id": "coarse", "label": "3-year blocks" }
-]
+[{"id": "yearly", "label": "yearly"}]
